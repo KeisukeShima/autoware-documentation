@@ -43,5 +43,10 @@
     "version": "main",
     "title": "main",
     "aliases": []
+  },
+  {
+    "version": "fix-latest-condition",
+    "title": "fix-latest-condition",
+    "aliases": []
   }
 ]
